@@ -18,3 +18,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Local installer script + timestamped backups (not part of the site)
+install-docs.sh
+*.bak.*
+*.bak
+docs.bak.*/
