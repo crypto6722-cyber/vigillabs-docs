@@ -20,10 +20,10 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'https://crypto6722-cyber.github.io',
+  url: 'https://docs.vigillabs.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/vigillabs-docs/',
+  baseUrl: '/',
   trailingSlash: false,
 
   // GitHub pages deployment config.
